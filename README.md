@@ -56,6 +56,18 @@ erDiagram
         int id_curso
         int semestre
     }
+    ALUNO ||--|{ CURSO : tem
+    CURSO ||--|{DEPARTAMENTO: tem
+    ALUNO ||--|{HISTORICO_ALUNO: tem
+    PROFESSOR ||--|{HISTORICO_PROF: tem
+    CURSO ||--|{ DEPARTAMENTO: tem
+    DEPARTAMENTO ||--|{ PROFESSOR: tem
+    HISTORICO_ALUNO ||--|{ MATRIZ: tem
+    HISTORICO_PROF ||--|{ MATRIZ: tem
+    TCC ||--|{ PROFESSOR: tem
+    ALUNO ||--|{ TCC: tem
+    MATRIZ ||--|{ DISCIPLINA: tem
+    MATRIZ ||--|{ CURSO: tem
 
   
 ```
