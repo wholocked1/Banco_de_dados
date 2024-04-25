@@ -9,15 +9,15 @@ Professor
 VARCHAR [255] nome;
 int id_departamento;
 int id_prof;
-boolean chefe_departamento;
 
 Curso
 int duração;
 VARCHAR [255] curso;
 
 Departamento
-VARCHAR [255] curso;
-VARCHAR [255] departamento;
+int id_departamento;
+int id_prof;
+int id_prof_chefe;
 
 Disciplina
 VARCHAR [255] departamento;
