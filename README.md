@@ -11,6 +11,8 @@ erDiagram
         int id_aluno
         int ciclo
         boolean formado
+        int id_tcc
+        int id_curso
     }
     PROFESSOR {
         string nome
@@ -40,8 +42,20 @@ erDiagram
         int semestre
         int ano
     }
-    
-  
-    
+    CURSO{
+        int duracao
+        int id_departamento
+    }
+    TCC{
+        int id_tcc
+        string titulo
+        int id_prof
+    } 
+    MATRIZ{
+        int id_disc
+        int id_curso
+        int semestre
+    }
+
   
 ```
