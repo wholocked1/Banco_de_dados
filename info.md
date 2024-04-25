@@ -1,14 +1,14 @@
 Aluno
 VARCHAR [255] nome;
-VARCHAR [255] curso;
+int id_curso;
 int semestre;
 int matrícula; *
 int data_de_conclusão;
 
 Professor
 VARCHAR [255] nome;
-VARCHAR [255] departamento;
-int matrícula; (?)*
+int id_departamento;
+int id_prof;
 boolean chefe_departamento;
 
 Curso
