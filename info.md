@@ -23,3 +23,13 @@ Disciplina
 VARCHAR [255] departamento;
 professor professor;
 VARCHAR [6] código; *
+
+Histórico
+int id_aluno
+int id_disc
+int ano
+int semestre
+float nota
+
+matriz
+
