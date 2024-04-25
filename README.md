@@ -6,24 +6,42 @@ Enzo Lima Cassin - 22.124.083-1
 
 ``` mermaid
 erDiagram
-    ALUNO ||--o{ ORDER :a
     ALUNO {
         string nome
         int id_aluno
         int ciclo
         boolean formado
     }
-    ORDER ||--|{ LINE-ITEM : contains
-    ORDER {
-        int orderNumber
-        string deliveryAddress
+    PROFESSOR {
+        string nome
+        int id_departamento
+        int id_professor
     }
-    LINE-ITEM {
-        string productCode
-        int quantity
-        float pricePerUnit
+    DEPARTAMENTO {
+        int id_departamento
+        int id_prof
+        int id_prof_chefe
     }
-
+    HISTORICO_ALUNO{
+        int id_aluno
+        int id_disciplina
+        int semestre
+        int ano
+        float nota
+    }
+    DISCIPLINA{
+        string codigo
+        int id_departamento
+        int semestre
+    }
+    HISTORICO_PROF{
+        int id_prof
+        int id_disciplina
+        int semestre
+        int ano
+    }
+    
+  
     
   
 ```
