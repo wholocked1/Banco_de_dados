@@ -20,8 +20,8 @@ erDiagram
         int id_professor
     }
     DEPARTAMENTO {
+        string nome
         int id_departamento
-        int id_prof
         int id_prof_chefe
     }
     HISTORICO_ALUNO{
@@ -56,18 +56,17 @@ erDiagram
         int id_curso
         int semestre
     }
-    ALUNO ||--|{ CURSO : tem
+    ALUNO }|--|| CURSO : tem
     CURSO ||--|{DEPARTAMENTO: tem
-    ALUNO ||--|{HISTORICO_ALUNO: tem
-    PROFESSOR ||--|{HISTORICO_PROF: tem
-    CURSO ||--|{ DEPARTAMENTO: tem
+    ALUNO ||--|| HISTORICO_ALUNO: tem
+    PROFESSOR ||--|| HISTORICO_PROF: tem
     DEPARTAMENTO ||--|{ PROFESSOR: tem
     HISTORICO_ALUNO ||--|{ MATRIZ: tem
     HISTORICO_PROF ||--|{ MATRIZ: tem
-    TCC ||--|{ PROFESSOR: tem
-    ALUNO ||--|{ TCC: tem
+    TCC ||--|| PROFESSOR: tem
+    ALUNO }|--|| TCC: tem
     MATRIZ ||--|{ DISCIPLINA: tem
-    MATRIZ ||--|{ CURSO: tem
+    MATRIZ ||--|| CURSO: tem
 
   
 ```
