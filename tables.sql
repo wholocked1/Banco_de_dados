@@ -1,4 +1,4 @@
-CREATE SCHEMA faculdade
+CREATE SCHEMA faculdade --criação do schema
 CREATE TABLE faculdade.aluno ( --criação da tabela de aluno
   nome TEXT,
   id_aluno INT,
