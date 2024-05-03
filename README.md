@@ -57,16 +57,18 @@ erDiagram
         int semestre
     }
     ALUNO }o--|| CURSO : tem
-    #CURSO }o--|{DEPARTAMENTO: tem
     ALUNO ||--|| HISTORICO_ALUNO: tem
     PROFESSOR ||--|| HISTORICO_PROF: tem
     DEPARTAMENTO ||--o{ PROFESSOR: tem
     HISTORICO_ALUNO }|--|{ MATRIZ: tem
     HISTORICO_PROF }|--|{ MATRIZ: tem
     TCC }|--|| PROFESSOR: tem
-    ALUNO }|--|| TCC: tem
+    ALUNO }|--o| TCC: tem
     MATRIZ ||--|{ DISCIPLINA: tem
     MATRIZ ||--|| CURSO: tem
+    DEPARTAMENTO ||--o{ DISCIPLINA: tem
 
   
 ```
+
+<!-- CURSO ||--|{DEPARTAMENTO: tem  - Departamento não pertence ao cursos específicos mas eles podem ser relacionados pela matriz 
