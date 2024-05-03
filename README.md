@@ -57,7 +57,7 @@ erDiagram
         int semestre
     }
     ALUNO }o--|| CURSO : tem
-    CURSO |o--|{DEPARTAMENTO: tem
+    CURSO }o--|{DEPARTAMENTO: tem
     ALUNO ||--|| HISTORICO_ALUNO: tem
     PROFESSOR ||--|| HISTORICO_PROF: tem
     DEPARTAMENTO ||--o{ PROFESSOR: tem
