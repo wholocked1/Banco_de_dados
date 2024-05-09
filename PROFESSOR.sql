@@ -1,0 +1,10 @@
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Glennis Cosens', null, '7358');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Quinn Labitt', null, '3023');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Wrennie Sealy', null, '4568');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Guillermo Le Galle', null, '0673');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Lucia Eaglesham', null, '3677');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Billy Macconaghy', null, '0793');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Bellina McGarahan', null, '9711');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Dee Wallach', null, '3477');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Jannelle Loines', null, '4481');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Bar Britner', null, '5275');
