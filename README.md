@@ -32,6 +32,7 @@ erDiagram
         float nota
     }
     DISCIPLINA{
+        string nome
         string codigo
         int id_departamento
         int semestre
