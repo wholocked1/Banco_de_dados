@@ -45,6 +45,7 @@ CREATE TABLE faculdade.matriz ( --criação da tabela de matriz
   semestre INT
 )
 CREATE TABLE faculdade.disciplina ( --criação da tabela de disciplina
+  nome TEXT,
   codigo TEXT,
   id_depart INT,
   semestre INT
