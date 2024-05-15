@@ -69,7 +69,7 @@ insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('LIBRAS'
 -- curso de 2 anos
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('CORES E PERCEPÇÃO VISUAL', 'DI101', null, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('COMPOSIÇÃO E FORMA', 'DI102', null, 1)
-insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('LÍNGUA BRASILEIRA DE SINAIS', 'DI103', null, 1)
+insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('LIBRAS', 'DI103', null, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('SOCIEDADE, IDENTIDADES E TERRITÓRIOS', 'DI104', null, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('EXPRESSÃO GRÁFICA', 'DI105', null, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('METODOLOGIA DE PROJETO EM DESIGN', 'DI201', null, 2)
