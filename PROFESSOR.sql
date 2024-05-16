@@ -8,3 +8,4 @@ insert into PROFESSOR (nome, id_departamento, id_professor) values ('Bellina McG
 insert into PROFESSOR (nome, id_departamento, id_professor) values ('Dee Wallach', null, '3477');
 insert into PROFESSOR (nome, id_departamento, id_professor) values ('Jannelle Loines', null, '4481');
 insert into PROFESSOR (nome, id_departamento, id_professor) values ('Bar Britner', null, '5275');
+insert into PROFESSOR (nome, id_departamento, id_professor) values ('Pedro Souza', null, '9852');
