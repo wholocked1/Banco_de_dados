@@ -9,7 +9,9 @@ CREATE TABLE faculdade.aluno ( --criação da tabela de aluno
 )
 CREATE TABLE faculdade.curso ( --criação da tabela de curso
   duracao INT,
-  id_depart INT
+  id_depart INT,
+  id_curso INT,
+  nome TEXT
 )
 CREATE TABLE faculdade.departamento ( --criação da tabela de departamento
   id_depart INT,
