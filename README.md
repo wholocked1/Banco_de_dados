@@ -50,6 +50,7 @@ erDiagram
         int ano
     }
     CURSO{
+        string nome
         int duracao
         int id_departamento
     }
