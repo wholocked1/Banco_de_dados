@@ -53,6 +53,7 @@ erDiagram
         string nome
         int duracao
         int id_departamento
+        int id_curso
     }
     TCC{
         int id_tcc
