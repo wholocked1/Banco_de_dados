@@ -9,12 +9,12 @@ CREATE TABLE faculdade.aluno ( --criação da tabela de aluno
 );
 CREATE TABLE faculdade.curso ( --criação da tabela de curso
   duracao INT,
-  id_depart INT,
+  id_departarmento INT,
   id_curso INT PRIMARY KEY,
   nome TEXT
 );
 CREATE TABLE faculdade.departamento ( --criação da tabela de departamento
-  id_depart INT PRIMARY KEY,
+  id_departarmento INT PRIMARY KEY,
   id_prof_chefe INT,
   nome TEXT
 );
@@ -25,7 +25,7 @@ CREATE TABLE faculdade.tcc ( --criação da tabela de tcc
 );
 CREATE TABLE faculdade.professor ( --criação da tabela de professor
   nome TEXT,
-  id_depart INT,
+  id_departarmento INT,
   id_prof INT PRIMARY KEY
 );
 CREATE TABLE faculdade.hist_prof ( --criação da tabela de histórico do professor
@@ -49,6 +49,6 @@ CREATE TABLE faculdade.matriz ( --criação da tabela de matriz
 CREATE TABLE faculdade.disciplina ( --criação da tabela de disciplina
   nome TEXT,
   codigo TEXT PRIMARY KEY,
-  id_depart INT,
+  id_departarmento INT,
   semestre INT
 );
