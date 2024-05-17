@@ -36,3 +36,18 @@ insert into TCC (id_tcc, id_prof, titulo) values (5049, '7358', 'et tempus');
 insert into TCC (id_tcc, id_prof, titulo) values (3490, '0673', 'et eros vestibulum ac');
 insert into TCC (id_tcc, id_prof, titulo) values (4490, '0673', 'fringilla rhoncus mauris enim');
 insert into TCC (id_tcc, id_prof, titulo) values (2210, '9852', 'in tempus sit');
+
+insert into TCC (id_tcc, id_prof, titulo) values ('2283', '4481', 'felis sed interdum venenatis');
+insert into TCC (id_tcc, id_prof, titulo) values ('6476', '0793', 'porttitor pede');
+insert into TCC (id_tcc, id_prof, titulo) values ('9118', '7358', 'quam turpis');
+insert into TCC (id_tcc, id_prof, titulo) values ('8143', '9711', 'hac habitasse platea');
+insert into TCC (id_tcc, id_prof, titulo) values ('2773', '5275', 'luctus cum sociis');
+insert into TCC (id_tcc, id_prof, titulo) values ('9758', '0793', 'odio cras mi pede');
+insert into TCC (id_tcc, id_prof, titulo) values ('0773', '4481', 'eleifend pede');
+insert into TCC (id_tcc, id_prof, titulo) values ('6327', '4481', 'eu pede');
+insert into TCC (id_tcc, id_prof, titulo) values ('1183', '0793', 'in leo');
+insert into TCC (id_tcc, id_prof, titulo) values ('3751', '0673', 'in lacus');
+insert into TCC (id_tcc, id_prof, titulo) values ('5447', '0673', 'sit amet sem fusce');
+insert into TCC (id_tcc, id_prof, titulo) values ('5323', '4481', 'sagittis dui');
+insert into TCC (id_tcc, id_prof, titulo) values ('0962', '5275', 'mauris eget');
+insert into TCC (id_tcc, id_prof, titulo) values ('1178', '9852', 'interdum mauris ullamcorper');
