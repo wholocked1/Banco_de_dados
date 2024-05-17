@@ -3,7 +3,7 @@ insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('LIBRAS'
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Práticas de Ensino para a Educação Especial numa Perspectiva Inclusiva', 'AV102', 04, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Currículos, didática e Práticas Avaliativas do Ensino e da Aprendizagem', 'AV103', 01, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Política e Organização da Educação no Brasil', 'AV104', 01, 1)
-insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Estudo das Relações Étnico-Raciais para o Ensino de História e Cultura Afro-brasileira, Africana e Indígena', 'AV104', 04, 1)
+insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Estudo das Relações Étnico-Raciais para o Ensino de História e Cultura Afro-brasileira, Africana e Indígena', 'AV111', 04, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Psicologia da Educação e Teorias da Aprendizagem', 'AV105', 04, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Estética e Filosofia da Arte', 'AV106', 04, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Fundamentos da Linguagem Visual', 'AV107', 07, 1)
