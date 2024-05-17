@@ -1,7 +1,7 @@
 CREATE SCHEMA faculdade --criação do schema
 CREATE TABLE faculdade.aluno ( --criação da tabela de aluno
   nome TEXT,
-  id_aluno INT,
+  id_aluno INT PRIMARY KEY,
   ciclo TEXT,
   formado BOOLEAN,
   id_tcc INT,
@@ -10,23 +10,23 @@ CREATE TABLE faculdade.aluno ( --criação da tabela de aluno
 CREATE TABLE faculdade.curso ( --criação da tabela de curso
   duracao INT,
   id_depart INT,
-  id_curso INT,
+  id_curso INT PRIMARY KEY,
   nome TEXT
 )
 CREATE TABLE faculdade.departamento ( --criação da tabela de departamento
-  id_depart INT,
+  id_depart INT PRIMARY KEY,
   id_prof_chefe INT,
   nome TEXT
 )
 CREATE TABLE faculdade.tcc ( --criação da tabela de tcc
-  id_tcc INT,
+  id_tcc INT PRIMARY KEY,
   id_prof INT,
   titulo TEXT
 )
 CREATE TABLE faculdade.professor ( --criação da tabela de professor
   nome TEXT,
   id_depart INT,
-  id_prof INT
+  id_prof INT PRIMARY KEY
 )
 CREATE TABLE faculdade.hist_prof ( --criação da tabela de histórico do professor
   id_prof INT,
@@ -48,7 +48,7 @@ CREATE TABLE faculdade.matriz ( --criação da tabela de matriz
 )
 CREATE TABLE faculdade.disciplina ( --criação da tabela de disciplina
   nome TEXT,
-  codigo TEXT,
+  codigo TEXT PRIMARY KEY,
   id_depart INT,
   semestre INT
 );
