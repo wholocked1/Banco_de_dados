@@ -38,7 +38,7 @@ insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Probabi
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Estratégias de Marketing', 'MR304', 03, 3)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Planejamento Estratégico de Vendas', 'MR305', 02, 3)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Empreendedorismo', 'MR306', 02, 3)
-insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Projeto Multidisciplinar Final e Trabalho de Conclusão de Curso', 'MR207', 03, 3)
+insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Projeto Multidisciplinar Final e Trabalho de Conclusão de Curso', 'MR307', 03, 3)
 -- curso de 1 ano
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Gestão de Pessoas – Relações Humanas', 'PG101', 02, 1)
 insert into DISCIPLINA(nome, codigo, id_departamento, semestre) values ('Gestão Mercadológica', 'PG102', 02, 1)
