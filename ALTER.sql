@@ -25,3 +25,19 @@ ALTER TABLE faculdade.hist_prof
     REFERENCES faculdade.professor
   ADD id_disc FOREIGN KEY (id_disc)
     REFERENCES faculdade.disciplina
+
+ALTER TABLE faculdade.hist_aluno
+  ADD id_aluno FOREIGN KEY (id_aluno)
+    REFERENCES faculdade.aluno
+  ADD id_disc FOREIGN KEY (id_disc)
+    REFERENCES faculdade.disciplina
+
+ALTER TABLE faculdade.matriz
+  ADD id_disc FOREIGN KEY (id_disc)
+    REFERENCES faculdade.disciplina
+  ADD id_curso FOREIGN KEY (id_curso)
+      REFERENCES faculdade.curso
+
+ALTER TABLE faculdade.disciplina
+  ADD id_depart FOREIGN KEY (id_depart)
+    REFERENCES faculdade.departamento
