@@ -7,7 +7,7 @@ ALTER TABLE faculdade.aluno
       REFERENCES faculdade.curso
 ;
 ALTER TABLE faculdade.curso
-  ADD CONSTRAINT id_depart FOREIGN KEY (id_depart)
+  ADD CONSTRAINT id_departarmento FOREIGN KEY (id_departarmento)
     REFERENCES faculdade.departamento
 ;
 ALTER TABLE faculdade.departamento
@@ -19,7 +19,7 @@ ALTER TABLE faculdade.tcc
     REFERENCES faculdade.professor
 ;
 ALTER TABLE faculdade.professor
-  ADD CONSTRAINT id_depart FOREIGN KEY (id_depart)
+  ADD CONSTRAINT id_departarmento FOREIGN KEY (id_departarmento)
     REFERENCES faculdade.departamento
 ;
 ALTER TABLE faculdade.hist_prof
@@ -47,6 +47,6 @@ ALTER TABLE faculdade.matriz
       REFERENCES faculdade.curso
 ;
 ALTER TABLE faculdade.disciplina
-  ADD CONSTRAINT id_depart FOREIGN KEY (id_depart)
+  ADD CONSTRAINT id_departarmento FOREIGN KEY (id_departarmento)
     REFERENCES faculdade.departamento
 ;
