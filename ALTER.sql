@@ -27,7 +27,7 @@ ALTER TABLE faculdade.hist_prof
     REFERENCES faculdade.professor
 ;
 ALTER TABLE faculdade.hist_prof
-  ADD CONSTRAINT id_disc FOREIGN KEY (codigo)
+  ADD CONSTRAINT codigo FOREIGN KEY (codigo)
     REFERENCES faculdade.disciplina
 ;
 ALTER TABLE faculdade.hist_aluno
@@ -35,11 +35,11 @@ ALTER TABLE faculdade.hist_aluno
     REFERENCES faculdade.aluno
 ;
 ALTER TABLE faculdade.hist_aluno
-  ADD CONSTRAINT id_disc FOREIGN KEY (codigo)
+  ADD CONSTRAINT codigo FOREIGN KEY (codigo)
     REFERENCES faculdade.disciplina
 ;
 ALTER TABLE faculdade.matriz
-  ADD CONSTRAINT id_disc FOREIGN KEY (codigo)
+  ADD CONSTRAINT codigo FOREIGN KEY (codigo)
     REFERENCES faculdade.disciplina
 ;
 ALTER TABLE faculdade.matriz
