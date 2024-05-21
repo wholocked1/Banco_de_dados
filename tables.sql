@@ -30,19 +30,19 @@ CREATE TABLE faculdade.professor ( --criação da tabela de professor
 );
 CREATE TABLE faculdade.hist_prof ( --criação da tabela de histórico do professor
   id_prof INT,
-  id_disc INT,
+  id_disc TEXT,
   semestre INT,
   ano INT
 );
 CREATE TABLE faculdade.hist_aluno ( --criação da tabela de histório de aluno
   id_aluno INT,
-  id_disc INT,
+  id_disc TEXT,
   semestre INT,
   ano INT,
   nota DECIMAL(4,2)
 );
 CREATE TABLE faculdade.matriz ( --criação da tabela de matriz
-  id_disc INT,
+  id_disc TEXT,
   id_curso INT,
   semestre INT
 );
