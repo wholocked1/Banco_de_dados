@@ -6,9 +6,15 @@ Enzo Lima Cassin - 22.124.083-1
 
 Estamos usando a plataforma Cockroach DB para construir, colocar as informações e testar o código que estamos implementando.<br><br>
 O código no arquivo 'tabelas.sql' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
+O código no arquivo 'alter.sql' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
 O código no arquivo 'ALUNO.sql' está as informações criadas aleatoriamente usando a ferramenta [Mockaroo]([url](https://www.mockaroo.com)) para criar as informações para serem carregadas no banco de dados.<br><br>
 O código no arquivo 'PROFESSOR.sql' está as informações criadas aleatoriamente usando a ferramenta Mockaroo para criar informações aleatórias para serem carregadas no banco de dados.<br><br>
-O código no arquivo 'DISCIPLINAS.sql' está as informações construídas a mão para gerar as disciplinas de cada curso. No sistema terá os cursos de durações diferentes (1 semestre, 2 semestres, 3 semestres e 4 semestres).<br><br>
+O código no arquivo 'DISCIPLINAS.sql' está as informações construídas a mão para gerar as disciplinas de cada curso para serem carregadas no banco de dados. No sistema terá os cursos de durações diferentes (1 semestre, 2 semestres, 3 semestres e 4 semestres).<br><br>
+O código no arquivo 'CURSO.sql' está as informações criadas manualmente dos cursos que estarão disponíveis nessa faculdade ficticia para serem carregadas no banco de dados. <br><br>
+O código no arquivo 'DEPARTAMENTO.sql' está as informações que foram construídas a mão para gerar os departamentos que dará cada aula para serem carregados no banco de dados. <br><br>
+O código no arquivo 'HIST_PROF.sql' está as informações referentes ao histórico de aulas dada pelos professores de um departamento gerados aleatoriamento usando a ferramenta Mockaroo para criar as informações de forma controlada e aleatória para serem carregadas no banco de dados. <br><br>
+O código no arquivo 'MATRIZ.sql' está as informações que linkam as informações presentes no curso com as informações das disciplinas para serem carregados no banco de dados. Esse código foi criado a mão para melhor controle.<br><br>
+O código no arquivo 'TCC.sql' está as informações que dos TCCs, como título, id e id do professor para carregar no banco de dados. Ela foi criada de forma controlada pela plataforma Mockaroo.<br><br>
 
 ``` mermaid
 erDiagram
