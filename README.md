@@ -16,6 +16,8 @@ O código no arquivo 'HIST_PROF.sql' está as informações referentes ao histó
 O código no arquivo 'MATRIZ.sql' está as informações que linkam as informações presentes no curso com as informações das disciplinas para serem carregados no banco de dados. Esse código foi criado a mão para melhor controle.<br><br>
 O código no arquivo 'TCC.sql' está as informações que dos TCCs, como título, id e id do professor para carregar no banco de dados. Ela foi criada de forma controlada pela plataforma Mockaroo.<br><br>
 
+
+Diagrama relacional:
 ``` mermaid
 erDiagram
     ALUNO {
