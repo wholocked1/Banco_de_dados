@@ -16,7 +16,7 @@ insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values
 insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values ('Pensamento Critico e Comunicação', 'MR103', 01, 1);
 insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values ('Introdução à Contabilidade', 'MR104', 06, 1);
 insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values ('Matemática Aplicada', 'MR105', 06, 1);
-insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values ('Meio Ambiente e Sustentabilidade', 'MR106' 04, 1);
+insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values ('Meio Ambiente e Sustentabilidade', 'MR106', 04, 1);
 insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values ('Projeto Multidisciplinar – Introdução à Gestão', 'MR107', 02, 1);
 insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values ('Marketing', 'MR108', 03, 1);
 insert into faculdade.disciplina(nome, codigo, id_departamento, semestre) values ('Comportamento do Consumidor', 'MR109', 02, 1);
