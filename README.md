@@ -1,9 +1,9 @@
 # Banco_de_dados
 
-Nomes:<br>
+**Nomes:**<br>
 - Ana Carolina Cogo Nami - 22.124.084-9<br>
 - Enzo Lima Cassin - 22.124.083-1
-
+<br><br>
 Estamos usando a plataforma Cockroach DB para construir o banco de dados de forma gratuita e para colocar as informações e testar o código que estamos implementando estamos usando a ferramenta DBeaver.<br><br>
 O código no arquivo 'tabelas.sql' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
 O código no arquivo 'ALTER.sql' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
@@ -19,7 +19,7 @@ O código no arquivo 'HIST_ALUNO.sql' está as informações de histórico do al
 Os arquivos 'Query_x.sql' são arquivos de querys que foram criados para os propósitos que estão comentados no começo do arquivo. Todo os arquivos foram escritos a mão.<br><br>
 
 
-Diagrama relacional:
+**Diagrama relacional:**
 ``` mermaid
 erDiagram
     ALUNO {
