@@ -1,8 +1,8 @@
 # Banco_de_dados
 
-Nomes:
-Ana Carolina Cogo Nami - 22.124.084-9<br>
-Enzo Lima Cassin - 22.124.083-1
+Nomes:<br>
+- Ana Carolina Cogo Nami - 22.124.084-9<br>
+- Enzo Lima Cassin - 22.124.083-1
 
 Estamos usando a plataforma Cockroach DB para construir o banco de dados de forma gratuita e para colocar as informações e testar o código que estamos implementando estamos usando a ferramenta DBeaver.<br><br>
 O código no arquivo 'tabelas.sql' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
