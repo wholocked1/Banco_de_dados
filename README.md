@@ -4,7 +4,7 @@ Nomes:
 Ana Carolina Cogo Nami - 22.124.084-9<br>
 Enzo Lima Cassin - 22.124.083-1
 
-Estamos usando a plataforma Cockroach DB para construir, colocar as informações e testar o código que estamos implementando.<br><br>
+Estamos usando a plataforma Cockroach DB para construir o banco de dados de forma gratuita e para colocar as informações e testar o código que estamos implementando estamos usando a ferramenta DBeaver.<br><br>
 O código no arquivo 'tabelas.sql' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
 O código no arquivo 'alter.sql' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
 O código no arquivo 'ALUNO.sql' está as informações criadas aleatoriamente usando a ferramenta [Mockaroo]([url](https://www.mockaroo.com)) para criar as informações para serem carregadas no banco de dados.<br><br>
@@ -15,6 +15,8 @@ O código no arquivo 'DEPARTAMENTO.sql' está as informações que foram constru
 O código no arquivo 'HIST_PROF.sql' está as informações referentes ao histórico de aulas dada pelos professores de um departamento gerados aleatoriamento usando a ferramenta Mockaroo para criar as informações de forma controlada e aleatória para serem carregadas no banco de dados. <br><br>
 O código no arquivo 'MATRIZ.sql' está as informações que linkam as informações presentes no curso com as informações das disciplinas para serem carregados no banco de dados. Esse código foi criado a mão para melhor controle.<br><br>
 O código no arquivo 'TCC.sql' está as informações que dos TCCs, como título, id e id do professor para carregar no banco de dados. Ela foi criada de forma controlada pela plataforma Mockaroo.<br><br>
+O código no arquivo 'HIST_ALUNO.sql' está as informações de histórico do aluno com as notas, semestre, ano, id do aluno e código da disciplina. Esse arquivo foi criado a mão.<br><br>
+Os arquivos 'Query_x.sql' são arquivos de querys que foram criados para os propósitos que estão comentados no começo do arquivo. Todo os arquivos foram escritos a mão.<br><br>
 
 
 Diagrama relacional:
