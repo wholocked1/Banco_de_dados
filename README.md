@@ -6,7 +6,7 @@ Enzo Lima Cassin - 22.124.083-1
 
 Estamos usando a plataforma Cockroach DB para construir o banco de dados de forma gratuita e para colocar as informações e testar o código que estamos implementando estamos usando a ferramenta DBeaver.<br><br>
 O código no arquivo 'tabelas.sql' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
-O código no arquivo 'alter.sql' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
+O código no arquivo 'ALTER.sql' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
 O código no arquivo 'ALUNO.sql' está as informações criadas aleatoriamente usando a ferramenta [Mockaroo]([url](https://www.mockaroo.com)) para criar as informações para serem carregadas no banco de dados.<br><br>
 O código no arquivo 'PROFESSOR.sql' está as informações criadas aleatoriamente usando a ferramenta Mockaroo para criar informações aleatórias para serem carregadas no banco de dados.<br><br>
 O código no arquivo 'DISCIPLINAS.sql' está as informações construídas a mão para gerar as disciplinas de cada curso para serem carregadas no banco de dados. No sistema terá os cursos de durações diferentes (1 semestre, 2 semestres, 3 semestres e 4 semestres).<br><br>
