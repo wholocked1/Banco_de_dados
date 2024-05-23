@@ -67,21 +67,21 @@ insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values (4481, '
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values (3677, 'PG105', 1, 2024);
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values (3677, 'PG204', 2, 2022);
 
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI306', 1, 2023);
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI207', 2, 2024);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI306', 1, 2023);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI207', 2, 2024);
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('9711', 'DI102', 2, 2023);
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('9711', 'DI403', 2, 2024);
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('9711', 'DI305', 1, 2022);
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('9711', 'DI305', 2, 2023);
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI307', 1, 2023);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI307', 1, 2023);
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('9711', 'DI102', 1, 2023);
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI306', 2, 2023);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI306', 2, 2023);
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('9711', 'DI203', 2, 2022);
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI102', 1, 2022);
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI403', 2, 2022);
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI207', 1, 2023);
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI404', 2, 2024);
-insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('0793', 'DI302', 2, 2024);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI102', 1, 2022);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI403', 2, 2022);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI207', 1, 2023);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI404', 2, 2024);
+insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values ('1793', 'DI302', 2, 2024);
 
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values (3477, 'MR102', 2, 2023);
 insert into faculdade.hist_prof (id_prof, codigo, semestre, ano) values (3477, 'MR105', 2, 2023);
