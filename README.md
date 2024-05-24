@@ -90,7 +90,7 @@ erDiagram
   
 ```
 
-**Referência:**
-Mockaroo: https://www.mockaroo.com
-dbeaver: https://dbeaver.io
-cockroach labs: https://www.cockroachlabs.com
+**Referência:** <br>
+Mockaroo: https://www.mockaroo.com <br>
+dbeaver: https://dbeaver.io <br>
+cockroach labs: https://www.cockroachlabs.com <br>
