@@ -1,7 +1,7 @@
 insert into faculdade.professor (nome, id_departamento, id_prof) values ('Glennis Cosens', 01, '7358');
 insert into faculdade.professor (nome, id_departamento, id_prof) values ('Quinn Labitt', 02, '3023');
 insert into faculdade.professor (nome, id_departamento, id_prof) values ('Wrennie Sealy', 02, '4568');
-insert into faculdade.professor (nome, id_departamento, id_prof) values ('Guillermo Le Galle', 03, '0673');
+insert into faculdade.professor (nome, id_departamento, id_prof) values ('Guillermo Le Galle', 03, '1673');
 insert into faculdade.professor (nome, id_departamento, id_prof) values ('Lucia Eaglesham', 04, '3677');
 insert into faculdade.professor (nome, id_departamento, id_prof) values ('Billy Macconaghy', 05, '1793');
 insert into faculdade.professor (nome, id_departamento, id_prof) values ('Bellina McGarahan', 05, '9711');
