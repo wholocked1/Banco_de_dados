@@ -4,6 +4,8 @@
 - Ana Carolina Cogo Nami - 22.124.084-9<br>
 - Enzo Lima Cassin - 22.124.083-1
 <br><br>
+
+
 Estamos usando a plataforma Cockroach labs para construir o banco de dados de forma gratuita e para colocar as informações e testar o código que estamos implementando estamos usando a ferramenta DBeaver.<br><br>
 O código no arquivo 'tabelas.sql' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
 O código no arquivo 'ALTER.sql' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
