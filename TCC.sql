@@ -13,9 +13,9 @@ insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('7977', '4481', 'viv
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('2766', '3477', 'cubilia curae');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('2996', '9852', 'diam cras pellentesque volutpat');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('4085', '3477', 'pede posuere');
-insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('7193', '0673', 'dapibus nulla suscipit ligula');
+insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('7193', '1673', 'dapibus nulla suscipit ligula');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('1846', '9852', 'in imperdiet et');
-insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('4594', '0673', 'augue vestibulum ante');
+insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('4594', '1673', 'augue vestibulum ante');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('4639', '7358', 'ultricies eu');
 
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values (7262, '3677', 'ut massa');
@@ -33,8 +33,8 @@ insert into faculdade.tcc (id_tcc, id_prof, titulo) values (8743, '9852', 'curab
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values (1208, '3477', 'felis sed interdum venenatis');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values (1572, '9852', 'lacus at velit');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values (5049, '7358', 'et tempus');
-insert into faculdade.tcc (id_tcc, id_prof, titulo) values (3490, '0673', 'et eros vestibulum ac');
-insert into faculdade.tcc (id_tcc, id_prof, titulo) values (4490, '0673', 'fringilla rhoncus mauris enim');
+insert into faculdade.tcc (id_tcc, id_prof, titulo) values (3490, '1673', 'et eros vestibulum ac');
+insert into faculdade.tcc (id_tcc, id_prof, titulo) values (4490, '1673', 'fringilla rhoncus mauris enim');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values (2210, '9852', 'in tempus sit');
 
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('2283', '4481', 'felis sed interdum venenatis');
@@ -43,11 +43,11 @@ insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('9118', '7358', 'qua
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('8143', '9711', 'hac habitasse platea');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('2773', '5275', 'luctus cum sociis');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('9758', '1793', 'odio cras mi pede');
-insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('0773', '4481', 'eleifend pede');
+insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('1773', '4481', 'eleifend pede');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('6327', '4481', 'eu pede');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('1183', '1793', 'in leo');
-insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('3751', '0673', 'in lacus');
-insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('5447', '0673', 'sit amet sem fusce');
+insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('3751', '1673', 'in lacus');
+insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('5447', '1673', 'sit amet sem fusce');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('5323', '4481', 'sagittis dui');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('1962', '5275', 'mauris eget');
 insert into faculdade.tcc (id_tcc, id_prof, titulo) values ('1178', '9852', 'interdum mauris ullamcorper');
