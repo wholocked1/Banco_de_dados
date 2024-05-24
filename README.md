@@ -4,7 +4,7 @@
 - Ana Carolina Cogo Nami - 22.124.084-9<br>
 - Enzo Lima Cassin - 22.124.083-1
 <br><br>
-Estamos usando a plataforma Cockroach DB para construir o banco de dados de forma gratuita e para colocar as informações e testar o código que estamos implementando estamos usando a ferramenta DBeaver.<br><br>
+Estamos usando a plataforma Cockroach labs para construir o banco de dados de forma gratuita e para colocar as informações e testar o código que estamos implementando estamos usando a ferramenta DBeaver.<br><br>
 O código no arquivo 'tabelas.sql' está as tabelas criadas para cada uma das partes do diagrama.<br><br>
 O código no arquivo 'ALTER.sql' está as alter tables que são usadas para poder pegar chave estrangeira das outras tabelas. <br><br>
 O código no arquivo 'ALUNO.sql' está as informações criadas aleatoriamente usando a ferramenta [Mockaroo]([url](https://www.mockaroo.com)) para criar as informações para serem carregadas no banco de dados.<br><br>
@@ -90,4 +90,7 @@ erDiagram
   
 ```
 
-<!-- CURSO ||--|{DEPARTAMENTO: tem  - Departamento não pertence ao cursos específicos mas eles podem ser relacionados pela matriz 
+**Referência:**
+Mockaroo: https://www.mockaroo.com
+dbeaver: https://dbeaver.io
+cockroach labs: https://www.cockroachlabs.com
