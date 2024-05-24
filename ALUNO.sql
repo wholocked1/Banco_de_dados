@@ -2,7 +2,7 @@ insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) v
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Olav Oxe', '7960', 3, true, '7262', 03);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Bobinette Tuffell', '3959', 3, false, '2989', 03);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Iorgos McClancy', '1530', 4, true, '2283', 04);
-insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Deck Holme', '0540', 3, false, '6476', 04);
+insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Deck Holme', '1540', 3, false, '6476', 04);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Sheffie Skidmore', '7994', 3, true, '1611', 03);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Winni Durrant', '6884', 3, true, '2973', 03);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Jess Christophersen', '1209', 1, true, '5380', 01);
@@ -13,12 +13,12 @@ insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) v
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Allianora Venny', '9918', 3, true, '5178', 03);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Monique Lody', '1995', 4, false, '2773', 04);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Reggie Akester', '2572', 1, false, '7977', 02);
-insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Ardelle Arlet', '0454', 2, true, '2766', 02);
+insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Ardelle Arlet', '1454', 2, true, '2766', 02);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Gunter McWhin', '2918', 2, false, '2996', 02);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Bill Beatey', '5244', 1, false, '4085', 02);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Karena Cocksedge', '4625', 4, true, '9758', 04);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Ernaline Daugherty', '4974', 3, true, '7937', 03);
-insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Nichole Whorlton', '8387', 2, false, '0773', 04);
+insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Nichole Whorlton', '8387', 2, false, '1773', 04);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Justino Flowerdew', '8533', 1, true, '9171', 01);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Rosalyn Stuckley', '4382', 1, true, '6334', 01);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Kim Rochford', '6630', 3, true, '8344', 03);
@@ -44,7 +44,7 @@ insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) v
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Quinlan Mitchely', '9189', 1, false, '5323', 04);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Marlin Horney', '6911', 3, false, '3490', 03);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Pauly Keggins', '8106', 4, true, '1962', 04);
-insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Liesa Butfield', '0577', 3, true, '4490', 03);
+insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Liesa Butfield', '1577', 3, true, '4490', 03);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Salvatore Pedrielli', '5698', 4, true, '2210', 03);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Barbee Walkington', '3756', 3, false, '1178', 04);
 insert into faculdade.aluno (nome, id_aluno, ciclo, formado, id_tcc, id_curso) values ('Ettie Jannex', '2357', 2, true, '4639', 02);
